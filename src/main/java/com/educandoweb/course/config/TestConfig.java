@@ -50,7 +50,5 @@ public class TestConfig implements CommandLineRunner {
 		orderRepository.saveAll(Arrays.asList(o1 , o2, o3));
 		
 	}
-	
-
 }
 
